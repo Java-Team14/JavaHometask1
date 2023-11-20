@@ -7,6 +7,11 @@ Below is mentioned the topic, classes and functions written by each team Member:
          TOPIC- ChainingException.
          ChargeCar(),
          CompletePayment()
+
+    TOPIC- Resource Management.
+         ChargingStation class,
+         try-catch for resource management
+   
 3. Anjali Khanduri  :
           TOPIC-Rethrowing Exception.
           SelectEnergySource()
@@ -15,7 +20,3 @@ Below is mentioned the topic, classes and functions written by each team Member:
          InvalidUserInputException class,
          ChargingStationFinder() ,
          DisplayMenu()
-7. Danial Rafiee  :
-          TOPIC- Resource Management.
-         ChargingStation class,
-         try-catch for resource management 
