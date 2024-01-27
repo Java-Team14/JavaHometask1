@@ -1,22 +1,8 @@
-# JavaHometask1
-Java Hometask 1 -Exception Handling
+# Java Hometask1 - Exception Handling - Team 14
 
-Below is mentioned the topic, classes and functions written by each team Member:
-
-1. Nitika Deswal  :
-         TOPIC- ChainingException.
-         ChargeCar(),
-         CompletePayment()
-
-    TOPIC- Resource Management.
-         ChargingStation class,
-         try-catch for resource management
-   
-3. Anjali Khanduri  :
-          TOPIC-Rethrowing Exception.
-          SelectEnergySource()
-5. Madhukar Devendrappa   :
-         TOPIC- Handling Multiple Exceptions.
-         InvalidUserInputException class,
-         ChargingStationFinder() ,
-         DisplayMenu()
+## Authors
+| | Author  | Matriculation Number | Course | Contribution |
+| - | ------ | -------------------- | ------ | ------------ |
+| 1 | Anjali Khanduri | 7219034 | MDT | Re-throwing Exception |
+| 2 | Nitika Deswal | 7218799 | MDT | Chaining Exception, Resource Management |
+| 3 | Madhukar Devendrappa  | 7219639 | ESE | Handling Multiple Exceptions |
